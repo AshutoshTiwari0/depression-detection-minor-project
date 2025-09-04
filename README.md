@@ -43,8 +43,8 @@ This project demonstrates a simple text classification model to detect signs of 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/AshutoshTiwari0/depression-detection-minor-project.git
+   cd depression-detection-minor-project
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
